@@ -6,5 +6,5 @@ Please be advised, the examples may be less than adequate for professional/comme
 
 ## Content
 
-* [Modules](/modules/) - multiple examples of modules in action
-* [GraphVis](graphvis/) - fetch values stored in a graph database and display the database in a readable fashion
+* [Modules](https://github.com/gillminister/knowcode-java/tree/master/modules) - multiple examples of modules in action
+* [GraphVis](https://github.com/gillminister/knowcode-java/tree/master/graphvis) - fetch values stored in a graph database and display the database in a readable fashion
