@@ -10,5 +10,5 @@ Please be advised, the examples may be less than adequate for professional/comme
 * [GraphVis][graphvis] - fetch values stored in a graph database and display the database in a readable fashion
 
 
-[modules]: /modules/
-[graphvis]: https://github.com/gillminister/knowcode-java/tree/master/graphvis
+[modules]: ./modules/
+[graphvis]: ./graphvis/
